@@ -40,7 +40,7 @@ npm run build
 ## react_start説明
 react_startはReact(リアクト)を使うためWebpack(ウェブパック)を設定する方法をまとめたレポジトリ(Repository)です。このレポジトリ(Repository)を作る時作成したブログポストがあります。詳しく内容は下記のリンクを確認してください。
 
-- [WebpackでReactを始める](https://dev-yakuza.github.io/ko/react/start/)
+- [WebpackでReactを始める](https://dev-yakuza.github.io/react/start/)
 
 ### 使い方
 下記のコマンドでreact_startレポジトリ(Repository)をコピー(Clone)します。
@@ -74,7 +74,7 @@ npm run build
 ## how to use react_start
 react_start repository is about how to configure Webpack to use React. there are blog posts about this repository. if you want to know more details, see the link below.
 
-- [Start React With Webpack](https://dev-yakuza.github.io/ko/react/start/)
+- [Start React With Webpack](https://dev-yakuza.github.io/en/react/start/)
 
 ### How to use
 execute the command below to copy(clone) react_start repository.
